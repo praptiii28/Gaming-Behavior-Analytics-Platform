@@ -129,6 +129,45 @@ MIT License - see LICENSE file for details
 ```
 
 ---
+## **CREATE REQUIREMENTS.TXT**
 
+**Create `requirements.txt` file:**
+```
+pandas==2.0.0
+numpy==1.24.0
+scikit-learn==1.2.2
+psycopg2-binary==2.9.6
+requests==2.28.0
+matplotlib==3.7.0
+seaborn==0.12.0
+jupyter==1.0.0
+```
+
+---
+
+## **CREATE .GITIGNORE**
+
+**Create `.gitignore` file:**
+```
+# Sensitive data
+.env
+config.py
+credentials.json
+*.xlsx
+large_datasets/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files
+*.csv
+!data/steam_sample.csv
 
 
