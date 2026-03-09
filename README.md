@@ -60,7 +60,7 @@ Jupyter Notebook
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/Gaming-Behavior-Analytics-Platform.git
+git clone https://github.com/praptiii28/Gaming-Behavior-Analytics-Platform.git
 
 # Install dependencies
 pip install -r requirements.txt
@@ -83,7 +83,7 @@ jupyter notebook notebooks/Iteration_2-3.ipynb
 - **Automation:** 40% reduction in manual processing effort
 - **Prediction:** 85% accuracy in emotional risk classification
 
-## 📊 Database Schema
+## Database Schema
 
 **Core Tables:**
 - `Users` - Child demographics
@@ -100,7 +100,7 @@ jupyter notebook notebooks/Iteration_2-3.ipynb
 
 Full technical documentation including data sources, preparation methods, storage architecture, and ethical considerations available in `docs/Data_Management_Plan.pdf`
 
-## 🔒 Privacy & Ethics
+## Privacy & Ethics
 
 - All datasets are open-access and de-identified
 - User data pseudonymized using hashed identifiers
@@ -108,18 +108,18 @@ Full technical documentation including data sources, preparation methods, storag
 - HTTPS-secured API calls
 - Compliant with Australian Privacy Act 1988
 
-## 👨‍💻 Author
+## Author
 
 **Prapti Dinesh**
 - Master of Data Science, Monash University (2025)
-- 📧 Email: praptid2002@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/prapti-d-72927a215](https://linkedin.com/in/prapti-d-72927a215)
+- Email: praptid2002@gmail.com
+- LinkedIn: [linkedin.com/in/prapti-d-72927a215](https://linkedin.com/in/prapti-d-72927a215)
 
-## 📚 Project Context
+## Project Context
 
 Academic industry project (FIT5120) delivered using Agile methodology with stakeholder workshops, sprint planning, and iterative delivery.
 
-## 📄 License
+## License
 
 MIT License - see LICENSE file for details
 
