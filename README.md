@@ -19,7 +19,7 @@ Multi-source data platform analyzing gaming behavior to help parents monitor chi
 - **APIs:** RAWG API integration
 - **Tools:** Jupyter Notebook, Lucidchart, Jira, Confluence
 - **Cloud:** Microsoft Azure
-## 📊 Key Features
+## Key Features
 
 ### 1. Multi-Source Data Integration
 - Consolidated 4 different data sources (CSV, RAWG API, research papers, Steam)
@@ -40,3 +40,11 @@ Multi-source data platform analyzing gaming behavior to help parents monitor chi
 - Reduced data inconsistencies by 30% through validation
 - Comprehensive Data Management Plan covering privacy, ethics, legal compliance
 - Structured archiving and version control
+## 📁 Project Structure
+```
+├── notebooks/        # Jupyter notebooks for data analysis
+├── sql/             # Database schema and queries
+├── data/            # Sample datasets
+├── docs/            # Data Management Plan and documentation
+└── images/          # Visualizations and diagrams
+```
